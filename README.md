@@ -1,4 +1,5 @@
 # Greenhouse-Reporting-SSRS
+This SSRS project allows users to run stored procedures from a SQL Server database, and format the results in the form of a report. To ensure proper functionality, cloning this repository requires some database work to get things up and running.
 
 ## Project Features
 - 4 Reports
