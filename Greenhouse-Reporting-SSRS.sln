@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Greenhouse-Reporting-SSRS", "Greenhouse-Reporting-SSRS\Greenhouse-Reporting-SSRS.rptproj", "{D38F3CA2-02EC-4938-1561-A735D68FEA74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D38F3CA2-02EC-4938-1561-A735D68FEA74}.Debug|Default.ActiveCfg = Debug
+		{D38F3CA2-02EC-4938-1561-A735D68FEA74}.Debug|Default.Build.0 = Debug
+		{D38F3CA2-02EC-4938-1561-A735D68FEA74}.Debug|Default.Deploy.0 = Debug
+		{D38F3CA2-02EC-4938-1561-A735D68FEA74}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{D38F3CA2-02EC-4938-1561-A735D68FEA74}.DebugLocal|Default.Build.0 = DebugLocal
+		{D38F3CA2-02EC-4938-1561-A735D68FEA74}.Release|Default.ActiveCfg = Release
+		{D38F3CA2-02EC-4938-1561-A735D68FEA74}.Release|Default.Build.0 = Release
+		{D38F3CA2-02EC-4938-1561-A735D68FEA74}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F790B22F-E0BC-4328-9B0D-70BC783752CB}
+	EndGlobalSection
+EndGlobal
